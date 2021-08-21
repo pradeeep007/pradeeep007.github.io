@@ -70083,7 +70083,7 @@ j=j.x
 q=M.a9(n,L.a_("Image "+(o.gOo()+1),n,n,n,n,C.ER,n,n),C.j,n,n,n,n,n,n,C.eU,n)
 l=b.a5(l).f
 p=t.p
-return M.hc(n,n,M.a9(n,T.fb(C.o6,H.a([new M.z_(s,o.ga09(),C.om,n,r,j,o.gagC(),C.o,n),q,T.oE(n,T.cb(H.a([M.a9(n,B.lO(C.ma,L.e_(C.tw,n,n),new B.afL(b),C.a7,n),C.j,n,n,n,n,n,n,C.eU,n),M.a9(n,new V.qu(L.HR(o.a.y[o.gOo()].d,!1,C.o5),n),C.j,n,n,n,n,n,n,C.eU,n)],p),C.p,C.aE,C.m),n,n,-2,n,2,l.a.a)],p),C.aX,n),C.j,n,new S.aD(1/0,1/0,k,k),m,n,n,n,n,n))},
+return M.hc(n,n,M.a9(n,T.fb(C.o6,H.a([new M.z_(s,o.ga09(),C.om,n,r,j,o.gagC(),C.o,n),q,T.oE(n,T.cb(H.a([M.a9(n,B.lO(C.ma,L.e_(C.tw,n,n),new B.afL(b),C.a7,n),C.j,n,n,n,n,n,n,C.eU,n),M.a9(n,new V.qu(L.HR(o.a.y[o.gOo()].d,!0,C.o5),n),C.j,n,n,n,n,n,n,C.eU,n)],p),C.p,C.aE,C.m),n,n,-2,n,2,l.a.a)],p),C.aX,n),C.j,n,new S.aD(1/0,1/0,k,k),m,n,n,n,n,n))},
 a0a:function(a,b){var s=null,r=this.a.y[b].d
 return new M.z0(Z.lu(L.aph(r),s,s,s,C.bg,s,s),new F.a5k(r),new M.ko("contained",1),new M.ko("covered",4.1),C.fw)}}
 B.afM.prototype={
@@ -70906,7 +70906,7 @@ $1:function(a){return C.DL},
 $S:476}
 V.a1Z.prototype={}
 V.vn.prototype={
-E:function(a,b){var s=this,r=null,q=s.d,p=$.aAv(),o=L.HR(q,!1,C.jL),n=t.p,m=s.e
+E:function(a,b){var s=this,r=null,q=s.d,p=$.aAv(),o=L.HR(q,!0,C.jL),n=t.p,m=s.e
 return V.aoD(T.aG(H.a([T.fb(C.bd,H.a([R.k6(!1,!0,T.k5(T.bB(new B.Hd(M.apV(r,r,new M.m2(p,1)),M.apV(r,r,new D.fy(o,1)),r),r,r),r,r,r,q,!1),r,!0,r,r,r,r,r,r,r,r,r,new V.akH(s,b),r,r,r)],n),C.aX,r),new T.bt(C.eV,T.aG(H.a([L.a_("Image number "+(s.f+1),r,r,r,r,C.nr,r,r),T.cb(H.a([T.aG(H.a([L.a_("Width: "+m.a,r,r,r,r,C.ns,r,r),L.a_("Height: "+m.b,r,r,r,r,C.ns,r,r)],n),C.p,C.q,C.m),new V.qu(L.HR(q,!0,C.o5),r)],n),C.p,C.fo,C.m)],n),C.p,C.q,C.m),r)],n),C.p,C.q,C.m))}}
 V.akH.prototype={
 $0:function(){var s=V.ej(new V.akG(this.a),null,t.z)
@@ -71030,7 +71030,7 @@ return M.a9(p,T.aG(H.a([new T.bt(C.a7,T.cb(H.a([L.a_("Videos",p,p,p,p,A.am(p,p,C
 $S:5}
 A.ahw.prototype={
 $2:function(a,b){var s=null,r=this.a,q="https://www.youtube.com/watch?v="+r.gcz().r1[b].d,p=r.gcz().r1[b].e
-return D.h3(s,Q.aye("http://img.youtube.com/vi/"+r.gcz().r1[b].d+"/0.jpg",p,r.gcz().r1[b].x),C.R,!1,s,s,s,s,s,s,s,s,s,s,s,new A.ahz(q),s,s,s,s,s,s)},
+return D.h3(s,Q.aye("https://img.youtube.com/vi/"+r.gcz().r1[b].d+"/0.jpg",p,r.gcz().r1[b].x),C.R,!1,s,s,s,s,s,s,s,s,s,s,s,new A.ahz(q),s,s,s,s,s,s)},
 $C:"$2",
 $R:2,
 $S:43}
